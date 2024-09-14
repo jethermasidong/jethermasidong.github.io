@@ -5,7 +5,7 @@ body {
     color: #333;
     overflow: hidden;
     opacity: 0; 
-    animation: fadeIn 0.6s ease-in-out forwards; 
+    animation: fadeIn 0.5s ease-in-out forwards; 
 }
 
 @keyframes fadeIn {
@@ -19,7 +19,7 @@ body {
 
 .fade-out {
     opacity: 1;
-    animation: fadeOut 0.8s ease-in-out forwards; 
+    animation: fadeOut 0.5s ease-in-out forwards; 
 }
 
 @keyframes fadeOut {
